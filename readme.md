@@ -9,6 +9,19 @@ Przedstawione zostaną najbardziej popularne biblioteki do przetwarzania danych 
 
 TBD
 
+**W skrócie:**
+
+Praktyczna, wieloaspektowa analiza rzeczywistych zbiorów danych obejmująca zagadnienia omawiane na wykładzie.
+* Praca w środowisku Jupyter
+* NumPy I Pandas
+* Statystyka i algebra liniowa za pomocą Pythona
+* Wizualizacja danych (Matplotlib, seaborn, bokeh)
+* Pozyskiwanie, przetwarzanie i przechowywanie danych
+* Oczyszczanie danych
+* Regresja 
+* Analiza obrazów (opencv)
+
+
 ## 3. Środowisko pracy
 
 Głównym środowiskiem pracy jest język Python w wersji 3 oraz narzędzie umożliwiające uruchamianie kodu w tym języku.
