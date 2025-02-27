@@ -1,4 +1,4 @@
-# Metody alizy danych
+# Metody analizy danych
 
 ## 1. Cel przedmiotu
 
