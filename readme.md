@@ -1,4 +1,4 @@
-# Metody analizy danych
+# Metody analizy danych - Hanna Dauharukava
 
 ## 1. Cel przedmiotu
 
